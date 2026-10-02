@@ -1,7 +1,9 @@
 # CLCS - Center for Linguistics and Cultural Studies
-<div align="center" bold>
+<div align="center">
 CLCS
+    <br/>
 Center for Linguistics and Cultural Studies
+  <br/>
 Central Institute of Technology, Kokrajhar
 </div>
 
