@@ -1,8 +1,5 @@
 # CLCS - Center for Linguistics and Cultural Studies
-- Developer
-- Researcher
-- Educator
-<div align="center">
+<div align="center" bold>
 CLCS
 Center for Linguistics and Cultural Studies
 Central Institute of Technology, Kokrajhar
